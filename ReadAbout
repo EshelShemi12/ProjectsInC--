@@ -1,0 +1,78 @@
+ **interdaction**
+ Every C++ program must have a special function named main
+ When the program is run, the statements inside of main are 
+ executed insequential order.
+ 
+ 
+ 
+
+ 
+ in C++ we use "int" to call our variable 
+
+like int Eshel;
+
+or this function : 
+int age;
+cout<< "How old are you ? "; 
+cin>> age;
+cout "In 10 years you are going to be "<<age+10;
+
+
+
+    |The cout Output Statement|
+
+
+Used to display information on computer screen
+It is declared in the header file iostream
+Syntax
+
+		cout << expression;
+
+Uses << operator to send information to computer screen
+	cout << "Hello, there!";
+
+Can be used to send more than one item
+	cout << "Hello, " << "there!";
+
+
+ |To get multiple lines of output on screen|
+       Either
+	- Use the endl function
+	 		cout << "Hello, there!" << endl;
+         Or
+	 Use \n in the output string
+	 		cout << "Hello, there!\n";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
